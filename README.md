@@ -40,5 +40,5 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/ваш_логин/conway-game-of-life.git
+git clone https://github.com/Plumbam/GameOfLife.git
 cd conway-game-of-life
