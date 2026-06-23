@@ -35,10 +35,9 @@
 
 Проект создан в образовательных целях.
 
-## 📦 Установка
+## 📥 Скачать
 
-### 1. Клонирование репозитория
+**Готовая версия для Windows:** [GameOfLife v1.0.0 (.exe)](https://github.com/Plumbam/GameOfLife/releases/latest)
 
-```bash
-git clone https://github.com/Plumbam/GameOfLife.git
-cd conway-game-of-life
+Просто скачайте и запустите — установка не требуется!
+
